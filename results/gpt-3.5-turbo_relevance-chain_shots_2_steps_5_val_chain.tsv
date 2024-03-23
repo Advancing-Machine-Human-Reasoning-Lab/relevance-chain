@@ -1,0 +1,151 @@
+index	prediction	label
+0	highly relevant	irrelevant
+1	highly relevant	highly relevant
+2	highly relevant	irrelevant
+3	highly relevant	irrelevant
+4	highly relevant	partially relevant
+5	highly relevant	highly relevant
+6	highly relevant	partially relevant
+7	highly relevant	irrelevant
+8	highly relevant	highly relevant
+9	partially relevant	highly relevant
+10	highly relevant	partially relevant
+11	irrelevant	partially relevant
+12	highly relevant	partially relevant
+13	highly relevant	irrelevant
+14	highly relevant	irrelevant
+15	partially relevant	irrelevant
+16	highly relevant	irrelevant
+17	highly relevant	partially relevant
+18	highly relevant	highly relevant
+19	highly relevant	highly relevant
+20	highly relevant	partially relevant
+21	highly relevant	partially relevant
+22	partially relevant	irrelevant
+23	highly relevant	partially relevant
+24	partially relevant	partially relevant
+25	highly relevant	partially relevant
+26	irrelevant	irrelevant
+27	highly relevant	highly relevant
+28	highly relevant	partially relevant
+29	highly relevant	partially relevant
+30	highly relevant	highly relevant
+31	highly relevant	highly relevant
+32	partially relevant	irrelevant
+33	highly relevant	highly relevant
+34	highly relevant	partially relevant
+35	highly relevant	highly relevant
+36	irrelevant	irrelevant
+37	highly relevant	highly relevant
+38	highly relevant	irrelevant
+39	irrelevant	irrelevant
+40	highly relevant	partially relevant
+41	highly relevant	irrelevant
+42	highly relevant	highly relevant
+43	partially relevant	irrelevant
+44	partially relevant	partially relevant
+45	partially relevant	highly relevant
+46	highly relevant	highly relevant
+47	irrelevant	partially relevant
+48	partially relevant	highly relevant
+49	irrelevant	irrelevant
+50	partially relevant	partially relevant
+51	highly relevant	partially relevant
+52	partially relevant	partially relevant
+53	highly relevant	partially relevant
+54	irrelevant	irrelevant
+55	irrelevant	partially relevant
+56	highly relevant	highly relevant
+57	highly relevant	highly relevant
+58	highly relevant	irrelevant
+59	highly relevant	partially relevant
+60	highly relevant	highly relevant
+61	partially relevant	highly relevant
+62	highly relevant	highly relevant
+63	highly relevant	partially relevant
+64	highly relevant	partially relevant
+65	highly relevant	irrelevant
+66	highly relevant	highly relevant
+67	highly relevant	irrelevant
+68	highly relevant	irrelevant
+69	highly relevant	irrelevant
+70	irrelevant	irrelevant
+71	highly relevant	highly relevant
+72	highly relevant	highly relevant
+73	partially relevant	irrelevant
+74	partially relevant	highly relevant
+75	partially relevant	irrelevant
+76	highly relevant	highly relevant
+77	highly relevant	irrelevant
+78	irrelevant	irrelevant
+79	partially relevant	partially relevant
+80	highly relevant	highly relevant
+81	irrelevant	partially relevant
+82	partially relevant	irrelevant
+83	highly relevant	highly relevant
+84	highly relevant	highly relevant
+85	highly relevant	partially relevant
+86	highly relevant	partially relevant
+87	irrelevant	partially relevant
+88	irrelevant	irrelevant
+89	partially relevant	irrelevant
+90	partially relevant	irrelevant
+91	partially relevant	irrelevant
+92	highly relevant	partially relevant
+93	highly relevant	highly relevant
+94	irrelevant	highly relevant
+95	highly relevant	partially relevant
+96	highly relevant	partially relevant
+97	highly relevant	irrelevant
+98	irrelevant	partially relevant
+99	highly relevant	partially relevant
+100	irrelevant	partially relevant
+101	irrelevant	irrelevant
+102	highly relevant	highly relevant
+103	highly relevant	partially relevant
+104	highly relevant	partially relevant
+105	highly relevant	highly relevant
+106	highly relevant	highly relevant
+107	irrelevant	irrelevant
+108	highly relevant	highly relevant
+109	highly relevant	partially relevant
+110	highly relevant	highly relevant
+111	highly relevant	irrelevant
+112	highly relevant	highly relevant
+113	highly relevant	irrelevant
+114	irrelevant	irrelevant
+115	highly relevant	partially relevant
+116	highly relevant	irrelevant
+117	highly relevant	highly relevant
+118	irrelevant	irrelevant
+119	highly relevant	partially relevant
+120	highly relevant	highly relevant
+121	highly relevant	highly relevant
+122	highly relevant	partially relevant
+123	highly relevant	highly relevant
+124	irrelevant	irrelevant
+125	partially relevant	partially relevant
+126	partially relevant	partially relevant
+127	highly relevant	partially relevant
+128	partially relevant	partially relevant
+129	irrelevant	irrelevant
+130	highly relevant	partially relevant
+131	highly relevant	highly relevant
+132	highly relevant	highly relevant
+133	highly relevant	irrelevant
+134	irrelevant	partially relevant
+135	highly relevant	highly relevant
+136	highly relevant	highly relevant
+137	highly relevant	highly relevant
+138	highly relevant	partially relevant
+139	highly relevant	partially relevant
+140	irrelevant	irrelevant
+141	highly relevant	highly relevant
+142	highly relevant	irrelevant
+143	irrelevant	irrelevant
+144	irrelevant	irrelevant
+145	highly relevant	irrelevant
+146	highly relevant	highly relevant
+147	highly relevant	highly relevant
+148	highly relevant	irrelevant
+149	highly relevant	highly relevant

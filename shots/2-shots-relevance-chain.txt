@@ -1,0 +1,25 @@
+Fact: At about 15:00 on December 16, 2009, the victim Li, an employee of Tangshan Zhaoyuan Industry and Trade Co., Ltd. (hereinafter referred to as Zhaoyuan Company), took someone to deliver raw coal to the coal washing plant of Zhaogezhuang Mine in Kailuan to unload the truck. There was a dispute between the vehicle and the vehicle of Tangshan Luanju Industrial Co., Ltd. (hereinafter referred to as Luanju Company) due to the unloading sequence.
+
+Report: Afterwards, he saw it was too dangerous, so he asked Liu Chuntao and Zhang Jianfeng to get in the car and ran away.
+
+Answer how relevant the Report is as evidence of the Fact. Thus, find the strongest relevance chain between the Report and the Fact in 5 steps or less. Use 'makes it more likely' or 'makes it less likely' relation in each step.
+
+Step 1: Seeing it as too dangerous makes it more likely to get in the car and run away.
+Step 2: Getting in the car and running away makes it less likely that a dispute will occur.
+
+###
+
+Fact: On the road in front of Qianlong Tianxia KTV, Huang Mouliu proposed a wrestling match with the defendant Lingpo to decide whether to continue drinking. The two wrestled with each other and fell in the middle of the road.
+
+Report: At around 23:00, there was no more wine in the box. He, Lingpo, Yang, Huang, Ou, and Xu went downstairs to buy wine from outside and come back to continue drinking. They walked to the "Qian Long Tianxia" KTV lobby, he handed a piece of money to Yang to buy cigarettes, and then we walked out of the door of "Qianlong Tianxia KTV" together. When we got to the roadside, he and Lingpo teased each other and said: "We are competing in wrestling. Whoever loses will pay for the drinks."
+
+Answer how relevant the Report is as evidence of the Fact. Thus, find the strongest relevance chain between the Report and the Fact in 5 steps or less. Use 'makes it more likely' or 'makes it less likely' relation in each step.
+
+Step 1: Having no wine in the box makes it more likely to buy wine from outside.
+Step 2: Buying wine from outside makes it more likely to look for someone to pay for drinks.
+Step 3: Looking for someone to pay for drinks makes it more likely to propose a wrestling match to decide who will pay for the drinks.
+Step 4: Proposing a wrestling match to decide who will pay for the drinks makes it more likely that two persons are wrestling with each other.
+Step 5: Two persons wrestling with each other makes it more likely to fall in the middle of the road. 
+
+###
+
