@@ -1,5 +1,5 @@
 # Relevance chains
-The official implementation of the paper "Determining Legal Relevance with LLMs using Relevance Chain Prompting".
+The official implementation code of the paper "Determining Legal Relevance with LLMs using Relevance Chain Prompting" [(Link)](https://journals.flvc.org/FLAIRS/article/view/135477/139622).
 
 ## Methodology
 
